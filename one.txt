@@ -1,1 +1,1 @@
-this is a texr file
+this is a note file
